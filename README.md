@@ -1,9 +1,4 @@
-<p align="center">
-
-   <img align="center" alt="go phropher image" src="https://imgur.com/trsuUkz" width="750" height="520" />
-  
-</p>
-
+![alt text](https://imgur.com/trsuUkz)
 # Beginner Level Go Projects
 
 This repository contains the beginner level Go projects that will help you understand language and concepts better.
@@ -34,7 +29,7 @@ This repository contains the beginner level Go projects that will help you under
 
 # Contributing
 
-Please feel free to add any beginner projects that would help other.When contributing to this repository, please first discuss the change you wish to make via issue,email:hellokaranhere@outlook.com, or any other method with the owner of this repository before making a change. 
+Please feel free to add any beginner projects that would help other.When contributing to this repository, please first discuss the change you wish to make via issue,[email](hellokaranhere@outlook.com), or any other method with the owner of this repository before making a change. 
 
 ## Issue Reporting
 
