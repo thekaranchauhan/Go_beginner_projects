@@ -1,4 +1,3 @@
-![alt text](https://imgur.com/trsuUkz)
 # Beginner Level Go Projects
 
 This repository contains the beginner level Go projects that will help you understand language and concepts better.
