@@ -32,6 +32,6 @@ Please feel free to add any beginner projects that would help other.When contrib
 
 ## Issue Reporting
 
-If you encounter a bug or have a feature request, please open an issue on the [GitHub issue tracker](https://github.com/thekaranchauhan/[go-beginner-projects]/issues).
+If you encounter a bug or have a feature request, please open an issue on the [GitHub issue tracker](https://github.com/thekaranchauhan/Go_beginner_projects/issues).
 
 Thank you and keep learning! 🎉
