@@ -1,0 +1,5 @@
+This is a simple example input file for the word frequency counter.
+It contains some repeated words, punctuation, and capitalization.
+For example, "Simple" and "simple" should be treated as the same word.
+Additionally, words like "example," and "example" should be considered the same as well.
+Let's see how the word frequency counter handles this text!
